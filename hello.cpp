@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "What a world this is!" << std::endl;
+    std::cout << "Hello World from CISC220" << std::endl;
 }
